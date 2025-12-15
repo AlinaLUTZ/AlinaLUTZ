@@ -9,8 +9,9 @@
 - [Системный промт для наставника по безопасному AI-экспертизу](prompts/mentor_secure_vibecoder.md)  
 - [Генератор compliance-описания для ИИ-автоматизаций](prompts/compliance_description_generator.md)  
 - [Анализ ВРИ (видов разрешённого использования) без ПДн](prompts/land_vri_analyzer.md)  
-- [Анализ договора аренды земельного участка (без ПДн)](prompts/land_lease_contract_analyzer.md)
-
+- [Анализ договора аренды земельного участка (без ПДн)](prompts/land_lease_contract_analyzer.md)  
+- [Чек-лист подачи заявления на землю для КФХ (без ПДн)](prompts/kfh_land_application_checklist.md)  
+- [Генератор официального запроса в администрацию (без ПДн)](prompts/admin_request_generator.md)
 ---
 
 ## 🔧 Архитектурный стек: безопасность как основа
