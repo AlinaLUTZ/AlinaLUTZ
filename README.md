@@ -5,7 +5,9 @@
 ![Static Badge](https://img.shields.io/badge/Zero%20PII-✓-red?logo=privacy)
 ![Static Badge](https://img.shields.io/badge/Self--Hosted-in%20RU-orange?logo=github)
 
+📚 [Профессиональные компетенции](SKILLS.md)
 🧠 [Мои исследовательские направления](RESEARCH.md)
+
 
 Проектирую **архитектуру AI-систем с «безопасностью от проектирования» (Security by Design)** для юридических и земельных процессов в Российской Федерации.  
 Мои решения исключают обработку ПДн, размещаются на инфраструктуре в РФ и пригодны к ИБ-аудиту по требованиям регуляторов.
