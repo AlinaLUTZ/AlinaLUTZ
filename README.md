@@ -1,12 +1,12 @@
 # 🛡️ Инженер ИБ-ориентированной суверенной ИИ-автоматизации
+
 ![Land Tech](https://img.shields.io/badge/Land_Tech-specialist-lightgrey)
 ![ФЗ-152](https://img.shields.io/badge/%D0%A4%D0%97--152-compliant-green?logo=russia)
 ![Sovereign AI](https://img.shields.io/badge/Sovereign_AI-yes-blue?logo=linux)
 ![Zero PII](https://img.shields.io/badge/Zero_PII-✓-red?logo=privacy)
 ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-in_RU-orange?logo=github)
 
-📚 [Профессиональные компетенции](SKILLS.md)
-
+📚 [Профессиональные компетенции](SKILLS.md)  
 🧠 [Мои исследовательские направления](RESEARCH.md)
 
 
