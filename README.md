@@ -1,9 +1,9 @@
 # 🛡️ Инженер ИБ-ориентированной суверенной ИИ-автоматизации
-![Custom](https://img.shields.io/badge/Land%20Tech-specialist-lightgrey)
-![Static Badge](https://img.shields.io/badge/ФЗ--152-compliant-green?logo=russia)
-![Static Badge](https://img.shields.io/badge/Sovereign%20AI-yes-blue?logo=linux)
-![Static Badge](https://img.shields.io/badge/Zero%20PII-✓-red?logo=privacy)
-![Static Badge](https://img.shields.io/badge/Self--Hosted-in%20RU-orange?logo=github)
+![Land Tech](https://img.shields.io/badge/Land_Tech-specialist-lightgrey)
+![ФЗ-152](https://img.shields.io/badge/%D0%A4%D0%97--152-compliant-green?logo=russia)
+![Sovereign AI](https://img.shields.io/badge/Sovereign_AI-yes-blue?logo=linux)
+![Zero PII](https://img.shields.io/badge/Zero_PII-✓-red?logo=privacy)
+![Self-Hosted](https://img.shields.io/badge/Self--Hosted-in_RU-orange?logo=github)
 
 📚 [Профессиональные компетенции](SKILLS.md)
 
@@ -64,3 +64,5 @@
 
 📬 **Открыта к коллаборациям** в сфере суверенного ИИ для земли, права и госпроцессов.  
 🔗 Политика информационной безопасности — см. [`SECURITY.md`](SECURITY.md)
+---
+🕗 Последнее обновление: 17 декабря 2025
