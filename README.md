@@ -6,6 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Self--Hosted-in%20RU-orange?logo=github)
 
 📚 [Профессиональные компетенции](SKILLS.md)
+
 🧠 [Мои исследовательские направления](RESEARCH.md)
 
 
