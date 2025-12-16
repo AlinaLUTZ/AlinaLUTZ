@@ -1,4 +1,5 @@
 # 🛡️ Инженер ИБ-ориентированной суверенной ИИ-автоматизации
+![Custom](https://img.shields.io/badge/Land%20Tech-specialist-lightgrey)
 ![Static Badge](https://img.shields.io/badge/ФЗ--152-compliant-green?logo=russia)
 ![Static Badge](https://img.shields.io/badge/Sovereign%20AI-yes-blue?logo=linux)
 ![Static Badge](https://img.shields.io/badge/Zero%20PII-✓-red?logo=privacy)
