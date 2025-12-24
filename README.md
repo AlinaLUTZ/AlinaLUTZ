@@ -1,7 +1,6 @@
 # 🛡️ Инженер ИБ-ориентированной суверенной ИИ-автоматизации
 
 <!-- Compliance & Domain -->
-<!-- Compliance & Domain -->
 ![Land Tech](https://img.shields.io/badge/Land_Tech-Specialist-lightgrey?logo=mapbox&labelColor=3a3a3a)
 ![ФЗ-152](https://img.shields.io/badge/ФЗ--152-Compliant-green?logo=russia&labelColor=0039a6)
 ![Sovereign AI](https://img.shields.io/badge/Sovereign_AI-Yes-blue?logo=linux&labelColor=000000)
