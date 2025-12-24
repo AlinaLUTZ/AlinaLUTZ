@@ -17,12 +17,14 @@
 Этот репозиторий — часть систематизации моей экспертизы. Здесь я публикую шаблоны, методики и архитектурные паттерны для суверенных, аудитуемых и compliance-ready AI-автоматизаций.
 
 📌 Доступные шаблоны и инструменты:
+
 - [Системный промт для наставника по безопасному AI-экспертизу](prompts/mentor_secure_vibecoder.md)  
 - [Генератор compliance-описания для ИИ-автоматизаций](prompts/compliance_description_generator.md)  
 - [Анализ ВРИ (видов разрешённого использования) без ПДн](prompts/land_vri_analyzer.md)  
 - [Анализ договора аренды земельного участка (без ПДн)](prompts/land_lease_contract_analyzer.md)  
 - [Чек-лист подачи заявления на землю для КФХ (без ПДн)](prompts/kfh_land_application_checklist.md)  
 - [Генератор официального запроса в администрацию (без ПДн)](prompts/admin_request_generator.md)
+  
 
 - [**secure-land-contract-parser**](https://github.com/AlinaLUTZ/secure-land-contract-parser) — offline-парсер для полного обезличивания договоров аренды земли по ФЗ-152. Zero PII, без интернета, готов к ИБ-аудиту.
 
