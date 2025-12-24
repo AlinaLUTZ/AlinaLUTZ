@@ -1,16 +1,27 @@
 # 🛡️ Инженер ИБ-ориентированной суверенной ИИ-автоматизации
 
 <!-- Compliance & Domain -->
-![Land Tech](...) ![ФЗ-152](...) ![Sovereign AI](...) ![Zero PII](...) ![Self-Hosted](...)
+<!-- Compliance & Domain -->
+![Land Tech](https://img.shields.io/badge/Land_Tech-Specialist-lightgrey?logo=mapbox&labelColor=3a3a3a)
+![ФЗ-152](https://img.shields.io/badge/ФЗ--152-Compliant-green?logo=russia&labelColor=0039a6)
+![Sovereign AI](https://img.shields.io/badge/Sovereign_AI-Yes-blue?logo=linux&labelColor=000000)
+![Zero PII](https://img.shields.io/badge/Zero_PII-✓-red?logo=privacy&labelColor=8b0000)
+![Self-Hosted](https://img.shields.io/badge/Self--Hosted-in_RU-orange?logo=github&labelColor=444444)
 
 <!-- AI & Models -->
-![YandexGPT](...) ![GigaChat](...) ![Cursor](...)
+![Cursor](https://img.shields.io/badge/Cursor-Local_AI_Assistant-black?logo=cursor&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-Offline_Mode-purple?logo=replit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Local_Editor-blue?logo=visual-studio-code&logoColor=white)
 
 <!-- Infrastructure -->
-![n8n](...) ![PostgreSQL](...) ![Docker](...) ![Vault](...)
+![n8n](https://img.shields.io/badge/n8n-Self--Hosted-blue?logo=n8n&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-RLS_Enabled-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Isolated-orange?logo=docker&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-Secrets_Management-ff0033?logo=hashicorp&logoColor=white)
 
 <!-- Security Tooling -->
-![Bandit](...) ![Semgrep](...)
+![Bandit](https://img.shields.io/badge/Bandit-SAST-green?logo=python&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-Code_Scanning-2b0066?logo=semgrep&logoColor=white)
 
 📚 [Профессиональные компетенции](SKILLS.md)  
 🧠 [Мои исследовательские направления](RESEARCH.md) 
