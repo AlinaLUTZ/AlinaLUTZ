@@ -9,8 +9,6 @@
 ![n8n](https://img.shields.io/badge/n8n-Self--Hosted-blue?logo=n8n&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-Local_AI_Assistant-black?logo=cursor&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-Offline_Mode-purple?logo=replit&logoColor=white)
-![YandexGPT](https://img.shields.io/badge/YandexGPT-Official_API-blue?logo=yandex&logoColor=fff)
-![GigaChat](https://img.shields.io/badge/GigaChat-Guest_Mode-cyan?logo=chatbot&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-RLS_Enabled-336791?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Isolated-orange?logo=docker&logoColor=white)
 ![Vault](https://img.shields.io/badge/HashiCorp_Vault-Secrets_Management-ff0033?logo=hashicorp&logoColor=white)
