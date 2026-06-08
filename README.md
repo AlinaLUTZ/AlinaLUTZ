@@ -40,7 +40,8 @@
 
 ## 📌 Доступные шаблоны и инструменты
 
-- [**secure-land-contract-parser**](https://github.com/AlinaLUTZ/secure-land-contract-parser) — offline-парсер для полного обезличивания договоров аренды земли по ФЗ-152. Zero PII, без интернета, готов к ИБ-аудиту.  
+- [**secure-land-contract-parser**](https://github.com/AlinaLUTZ/secure-land-contract-parser) — offline-парсер для полного обезличивания договоров аренды земли по ФЗ-152. Zero PII, без интернета, готов к ИБ-аудиту.
+- - [**secure-llm-auditor**](https://github.com/AlinaLUTZ/secure-llm-auditor) — CLI-инструмент на Python для автоматизированного аудита промптов и документов на соответствие ФЗ-152 и ГОСТ Р 57580.2. Детекция ПДн, анонимизация, генерация отчетов compliance и аудит-трейл.
 - [Системный промт для наставника по безопасной ИИ-экспертизе](prompts/mentor_secure_vibecoder.md)  
 - [Генератор compliance-описания для ИИ-автоматизаций](prompts/compliance_description_generator.md)  
 - [Анализ ВРИ (видов разрешённого использования) без ПДн](prompts/land_vri_analyzer.md)  
